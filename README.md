@@ -1,3 +1,5 @@
+Author: Saipayan Sanyal, 2nd Year B.Sc. Physics Student At Adamas University, Kolkata.
+
 # Duffing_Oscillator
 Duffing Oscillator: A Computational Study of Nonlinear Dynamics and Chaos
 
