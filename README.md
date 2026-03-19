@@ -16,6 +16,9 @@ x'' + δx' + αx + βx³ = γ cos(ωt)
 - Solved using Runge-Kutta 4 (RK4)
 - Simulated over time
 
+### System
+![System](plots/Spring_mass_damper.png)
+
 ## Results
 
 ### Time Series
